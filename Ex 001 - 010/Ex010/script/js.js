@@ -1,0 +1,5 @@
+function calc(){
+    let num1 = Number(document.getElementById('num1').value)
+    let conta = num1*num1
+    alert(conta)
+}
